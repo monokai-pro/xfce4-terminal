@@ -1,6 +1,6 @@
 # Monokai Pro (CE) for [Xfce Terminal](https://docs.xfce.org/apps/xfce4-terminal/start)
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/monokai-pro/xfce4-terminal/refs/heads/main/screenshot.png)
 
 ## About this theme
 
